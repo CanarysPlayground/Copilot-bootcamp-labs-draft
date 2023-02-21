@@ -5,7 +5,8 @@ GitHub CoPilot is an AI Pair Programmer, from GitHub products. Supports the deve
 ## Prerequisites
 
 1. To use GitHub Copilot you must have an active GitHub Copilot subscription
-2. Neovim IDE must be installed on a developer's machine
+2. Neovim IDE must be installed on a developer's machine. 
+3. To use GitHub Copilot in Neovim you must have Neovim version 0.6 or above and Node.js version 17 or below installed
 
 ## Download & install
 
