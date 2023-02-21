@@ -40,13 +40,13 @@ GitHub CoPilot is an AI Pair Programmer, from GitHub products.  supports the dev
 
 - Press Ctrl + Enter to see all the CoPilot Suggestions. Choose the best solution 
 
-![image](https://user-images.githubusercontent.com/67369513/220263441-56edaf6e-2bfc-4133-8e1b-42c0f3631a89.png)
+![image](https://user-images.githubusercontent.com/67369513/220276559-35f96b38-d8c3-4159-b50d-597e9082515c.png)
 
-![image](https://user-images.githubusercontent.com/67369513/220263262-c87cad09-fa5b-4bff-9a7b-d77cff36fa62.png)
+![image](https://user-images.githubusercontent.com/67369513/220276809-688b9cb6-e598-408c-aa5a-c13c8b17eb65.png)
 
 - Test if express server can be initiated
 
-![image](https://user-images.githubusercontent.com/67369513/220263932-41730072-daa5-4fc9-b447-0f7b0c5164c2.png)
+![image](https://user-images.githubusercontent.com/67369513/220277431-d4ccf690-ac3c-47b8-9648-ebc826dee923.png)
 
 ![image](https://user-images.githubusercontent.com/67369513/220264050-59ecfa2b-2c30-46ee-92f3-302e360defc5.png)
 
