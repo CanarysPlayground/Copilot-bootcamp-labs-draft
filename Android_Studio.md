@@ -129,6 +129,6 @@ GitHub Copilot will recommend the appropriate code to carry out your request if 
 
 4. Then the new tab will open, with multiple additional suggestions as shown below.
 
-![image](https://user-images.githubusercontent.com/95218310/220111564-b8e7e432-19d3-4567-8790-6ff002a6517a.png)
+   ![image](https://user-images.githubusercontent.com/95218310/220111564-b8e7e432-19d3-4567-8790-6ff002a6517a.png)
 
-**5**.	To accept a suggestion, above the suggestion, click `Accept Solution`. To reject all suggestions, close the tab.
+5. To accept a suggestion, above the suggestion, click `Accept Solution`. To reject all suggestions, close the tab.
