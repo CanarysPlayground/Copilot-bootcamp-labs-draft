@@ -27,15 +27,18 @@ GitHub CoPilot is an AI Pair Programmer, from GitHub products. Supports the deve
 
    ![4](https://user-images.githubusercontent.com/92542803/220367977-d4ee6988-8c2d-4787-9039-f7b26acf8707.png)
 
-## Neovim plugin for GitHub Copilot
+## Installing the Neovim extension
 
-<<< TBA >>>
+1. GitHub recommends that you install the GitHub Copilot plugin with Neovim's built-in plugin manager. Alternatively, you can use a plugin manager of your choice to install **github/copilot.vim**.
+
+   - To install GitHub Copilot with Neovim's built-in plugin manager, enter the following command in Git Bash.
    
-## Configure GitHub Copilot
-
-### Start Neovim
-
-1. Type **neovim** from your powershell prompt.
+   ```
+   git clone https://github.com/github/copilot.vim.git `
+   $HOME/AppData/Local/nvim/pack/github/start/copilot.vim
+   ```
+   
+2. Type **neovim** from your powershell prompt.
    
    ![6](https://user-images.githubusercontent.com/92542803/220370921-6e3360f4-047c-4831-8c47-eac8aee5b038.png)
 
