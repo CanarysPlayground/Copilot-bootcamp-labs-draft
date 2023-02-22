@@ -18,7 +18,7 @@ Using GitHub CoPilot, create a nodejs script to retrieve all repositories and th
 - VSCode is installed on the developers machine
 - GitHub CoPilot extension for VSCode is installed
 
-### CoPilot Lab
+### Create a javascript
 
 1. Open your Visual Studio Code Instance.
 2. From the terminal create a new folder, open the folder in VScode workspace
