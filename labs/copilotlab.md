@@ -1,4 +1,6 @@
-# Objective
+# GitHub Copilot for Admins
+
+## Objective
 
 Using GitHub CoPilot, create a nodejs script to retrieve all repositories and their corresponding sizes from an organisation.
 
