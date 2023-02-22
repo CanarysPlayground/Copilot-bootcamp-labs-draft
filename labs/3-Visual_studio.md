@@ -1,4 +1,4 @@
-# Configuring & getting started with GitHub Copilot in Visual Studio
+# GitHub Copilot in Visual Studio
 
 GitHub CoPilot is an AI Pair Programmer, from GitHub products.  supports the developers to convert the comments or the context into code Snippets. GitHub Copilot can be managed through personal accounts with GitHub Copilot for Individuals or through organization accounts with GitHub Copilot for Business.
 
