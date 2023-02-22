@@ -18,22 +18,33 @@ Using GitHub CoPilot, create a nodejs script to retrieve all repositories and th
 - VSCode is installed on the developers machine
 - GitHub CoPilot extension for VSCode is installed
 
+### CoPilot Keyboard Shortcuts
+
+- Accept an inline suggestion <kbd>Tab</kbd>
+- Show next inline suggestion <kbd>Alt</kbd>+<kbd>]</kbd>
+- Show previous inline suggestion <kbd>Alt</kbd>+<kbd>[</kbd>
+
 ### Create a javascript
 
 1. Open your Visual Studio Code Instance.
 2. From the terminal create a new folder, open the folder in VScode workspace
 3. Create a new file **githubrepos.js**
 4. Add a brief comment 
+   ```
+   //Desciption: This script will use github api to get the repository size from all repositories in a github organization. 
+   ```
 
     ![image](https://user-images.githubusercontent.com/67369513/220420397-fbf161be-4ffc-472a-b522-23a47addbe51.png)
 
-5. CoPilot will give suggestions on the libraries to use for running your script. Choose an appropriate one or add your own inputs
+5. CoPilot will give suggestions on the libraries to use for running your script. Choose an appropriate inline suggestion or add your own inputs
 
     ![image](https://user-images.githubusercontent.com/67369513/220421202-2f631ae8-7a6a-425b-9422-722ac04f8238.png)
 
 6. Add variables to accept github organization name and github token as inputs to authenticate with the GitHub API
 
-7. Add a comment to get the repository size. Add a function name, copilot will suggestions on the required code to get the repository size information. CHoose the appropriate one
+   ![image](https://user-images.githubusercontent.com/67369513/220564471-6ff82f15-2afb-415f-9232-f091bd300c18.png)
+
+7. Add a comment to get the repository size. Add a function name, copilot will give suggestions on the required code to get the repository size information. Choose the appropriate inline suggestion
 
     ![image](https://user-images.githubusercontent.com/67369513/220424608-09072c53-10c5-45fd-9d08-c4ab9713b10d.png)
 
