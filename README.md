@@ -12,5 +12,5 @@ You can find the details for each of the hands-on labs in the sequence of the bo
 - Exercise 2: [Using Copilot in VSCode](/labs/2-VsCode.md)
 - Exercise 3: [Using Copilot in Visual Studio](/labs/3-Visual_studio.md)
 - Exercise 4: [Using Copilot in Android Studio](/labs/4-Android_Studio.md)
-- Exercise 5: [Using Copilot in NeoVim](/labs/)
-- Exercise 6: [Copilot for GH Admin tasks](/labs/)
+- Exercise 5: [Using Copilot in NeoVim](/labs/5-neovim.md)
+- Exercise 6: [Copilot for GH Admin tasks](/labs/copilotlab.md)
